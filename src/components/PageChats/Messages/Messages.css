@@ -1,0 +1,23 @@
+.chat-messages-form-btns .emoji-wrapper {
+    position: relative;
+    margin: 0 7px;
+}
+.emoji-picker.none {
+    display: none;
+}
+.emoji-picker.block {
+    display: block;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+}
+.chat-messages-form-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.chat-messages-form-btns .upload-file-msg {
+    visibility: hidden;
+    position: absolute;
+    z-index: -1;
+}

@@ -1,0 +1,28 @@
+{
+	"header": {
+		"search": "Buscar",
+		"hi": "Hola",
+		"edit": "Editar perfil",
+		"logOut": "Salir"
+	},
+	"sitebar": {
+		"home": "Hogar",
+		"profile": "Perfil",
+		"chats": "Charlas",
+		"friends": "Amigos",
+		"wallet": "Billetera",
+		"help": "Ayuda",
+		"account": "Cuenta",
+		"main": "Principal",
+		"support": "Apoyo",
+		"favorites": "Favoritos"
+	},
+	"post": {
+		"like": "Como",
+		"comment": "Comentario"
+	},
+	"chat": {
+		"dialogNotFound": "Diálogo no encontrado",
+		"notMessage": "No hay mensajes en el diálogo"
+	}
+}

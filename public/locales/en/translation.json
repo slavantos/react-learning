@@ -1,0 +1,28 @@
+{
+	"header": {
+		"search": "Search",
+		"hi": "Hi",
+		"edit": "Edit profile",
+		"logOut": "Log Out"
+	},
+	"sitebar": {
+		"home": "Home",
+		"profile": "Profile",
+		"chats": "Chats",
+		"friends": "Friends",
+		"wallet": "Wallet",
+		"help": "Help",
+		"account": "Account",
+		"main": "Main",
+		"support": "Support",
+		"favorites": "Favorites"
+	},
+	"post": {
+		"like": "Like",
+		"comment": "Comments"
+	},
+	"chat": {
+		"dialogNotFound": "Dialog not found",
+		"notMessage": "There are no messages in the dialog"
+	}
+}

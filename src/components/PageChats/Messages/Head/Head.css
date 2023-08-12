@@ -1,0 +1,9 @@
+.chat-messages-head .info-panel .call-user {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.chat-messages-head .info-panel .action-with-message div {
+    cursor: pointer;
+}

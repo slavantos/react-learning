@@ -1,0 +1,29 @@
+
+.messages-item {
+    padding: 8px;
+    border-radius: 5px;
+}
+.messages-item.selected {
+    background: #fef7f3;
+}
+.messages-item svg {
+    opacity: 0;
+    height: 55px;
+    transition: all .2s;
+}
+.messages-item:hover {
+    cursor: pointer;
+}
+.messages-item:hover svg {
+    opacity: 1;
+    transition: all .2s;
+}
+.messages-item__avatar {
+    margin-top: 2px;
+    width: 50px;
+    height: 50px;
+}
+
+.messages-item.selected svg {
+    opacity: 1;
+}
